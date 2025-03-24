@@ -4,6 +4,7 @@
 ---
 
 ### Data Analytics Handbooks:
-1. [Numpy](https://github.com/aimG313/All-Handbooks/tree/main/Numpy)  
+1. [Numpy](https://github.com/aimG313/All-Handbooks/tree/main/Numpy) 
+2. [Pandas](https://github.com/aimG313/All-Handbooks/tree/main/Pandas) 
 
  
