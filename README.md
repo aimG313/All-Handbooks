@@ -5,6 +5,6 @@
 
 ### Data Analytics Handbooks:
 1. [Numpy](https://github.com/aimG313/All-Handbooks/blob/main/1.Numpy/numpy_essential.ipynb) 
-2. [Pandas](https://github.com/aimG313/All-Handbooks/tree/main/Pandas) 
+2. [Pandas](https://github.com/aimG313/All-Handbooks/blob/main/2.Pandas/pandas_essential.ipynb) 
 
  
