@@ -4,7 +4,7 @@
 ---
 
 - ### Data Scraping Handbooks:
-1. [bsoup](/Data%20Scraping%20Handbooks/Beautifulsoup/Basics/bsoup_essentials.ipynb)
+1. [Beautifulsoup](/Data%20Scraping%20Handbooks/Beautifulsoup/Basics/bsoup_essentials.ipynb)
 
 - ### Data Analytics Handbooks:
 1. [Numpy](https://github.com/aimG313/All-Handbooks/blob/main/Data%20Analytics%20Handbooks/1.Numpy/numpy_essential.ipynb) 
