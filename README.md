@@ -3,6 +3,9 @@
 ### *Full Stack Python Developer | ML & Robotics Enthusiast | Founder & CEO, PytronLab*
 ---
 
+- ### Data Scraping Handbooks:
+1. [bsoup](/Data%20Scraping%20Handbooks/Beautifulsoup/Basics/bsoup_essentials.ipynb)
+
 - ### Data Analytics Handbooks:
 1. [Numpy](https://github.com/aimG313/All-Handbooks/blob/main/Data%20Analytics%20Handbooks/1.Numpy/numpy_essential.ipynb) 
 2. [Pandas](https://github.com/aimG313/All-Handbooks/blob/main/Data%20Analytics%20Handbooks/2.Pandas/pandas_essential.ipynb) 
